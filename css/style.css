@@ -1,0 +1,37 @@
+html, body, table.bordercontent
+{
+  height: 100%;
+}
+a.topmenu{
+color:white;
+padding:10px 16px 10px 16px;
+font:normal normal 15px/30px Georgia, serif;
+text-decoration: none;
+}
+
+p.titlecontent{
+color:#855801;
+font:normal bold 14px/15px Georgia, serif;
+padding:8px 16px 0px 16px;
+}
+table.bordercontent{
+padding:3px 3px 3px 3px;
+border:3px solid #855801;
+background-color:#855801;
+
+}
+td.bordercontent{
+background-color:#ffffff;
+padding:3px 3px 3px 3px;
+height:100%;
+}
+
+a.logo{
+font:normal bold 20px/15px Georgia, serif;
+padding:10px 16px 10px 16px;
+color: white; text-decoration: none;
+}
+hr{
+color:#855801;
+border:1px solid #855801;
+}
